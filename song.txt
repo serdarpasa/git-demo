@@ -11,11 +11,4 @@ We're marching into destiny
 March as one
 Don't look back
 Oden's sons
-<<<<<<< HEAD
-A
-------------------------------------
 
-=======
-Attack!
--------------------------
->>>>>>> 9e84efbe2903d7a671947154d0e595025468fe55
